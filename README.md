@@ -19,41 +19,41 @@ In order to work with R Studio, following steps should be completed in order:
 Follow the steps below with respect to the operating system you are using
 
 _For Windows_
-a. Download the binary setup file for R from the following link.( [R for Windows](https://cran.r-project.org/bin/windows/base/) )
-b. Open the downloaded .exe file
-c. Follow the instructions and install R
+1. Download the binary setup file for R from the following link.( [R for Windows](https://cran.r-project.org/bin/windows/base/) )
+2. Open the downloaded .exe file
+3. Follow the instructions and install R
 
 
 _For Mac_
-a. Download the appropriate version of .pkg file form the following link. ( [R for Mac](https://cran.r-project.org/bin/macosx/) )
-b. Open the downloaded .pkg file
-c. Follow the instructions and install R
+1. Download the appropriate version of .pkg file form the following link. ( [R for Mac](https://cran.r-project.org/bin/macosx/) )
+2. Open the downloaded .pkg file
+3. Follow the instructions and install R
 
 _For Linux_
-a. For complete R System installation in Linux, follow the instructions on the following link ([R for Linux](https://cran.r-project.org/) )
-b. For Ubuntu with Apt-get installed, execute sudo apt-get install r-base in terminal.
+1. For complete R System installation in Linux, follow the instructions on the following link ([R for Linux](https://cran.r-project.org/) )
+2. For Ubuntu with Apt-get installed, execute sudo apt-get install r-base in terminal.
 
 ### 2. Installing R Studio
 Follow these steps to install R Studio:
-a. Go to [RStudio Download] (https://www.rstudio.com/products/rstudio/download/)
-b. Click the Download RStudio Desktop button
-c. Select the installation file for your system
-d. Run the installation file and follow installation instructions
+1. Go to [RStudio Download] (https://www.rstudio.com/products/rstudio/download/)
+2. Click the Download RStudio Desktop button
+3. Select the installation file for your system
+4. Run the installation file and follow installation instructions
 
 ### 2. Installing R Packages(if required)
 R packages can be installed using 2 ways. First one uses GUI on R Studio, and the other one uses Console on R Studio.
 #### Method 1(Using GUI)
 Follow the steps below if your work in R Studio requires installing specific packages that are not already available in R Base Package.
-a. Run R studio
-b. Click on the Packages tab in the bottom-right section and then click on install. 
-c. A dialog box will appear. In the Install Packages dialog, write the package name you want to install under the Packages field and then click install. This will install the package you searched for or give you a list of matching package based on your package text.
+1. Run R studio
+2. Click on the Packages tab in the bottom-right section and then click on install. 
+3. A dialog box will appear. In the Install Packages dialog, write the package name you want to install under the Packages field and then click install. This will install the package you searched for or give you a list of matching package based on your package text.
 
 #### Method 2(Using Console)
 Let’s suppose you want to install the "class" package. Following command needs to be executed at R shell(make sure you have Root access on Linux)
-a. Run R Studio
-b. On the console, run following commands
+1. Run R Studio
+2. On the console, run following commands
    >install.packages("class") # Download and Install package from CRAN directly
    >library("class") # load the installed package so that you may use its functions
- c. This will install the package "class"
+3. This will install the package "class"
  
 This completes our installation part. If you want to learn how to exceute some basic commands in R Studio, please follow the content given in [Hello World in R] (https://github.com/nitika1111/R-RStudio-HelloWorld)
