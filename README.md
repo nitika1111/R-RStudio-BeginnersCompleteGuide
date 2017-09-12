@@ -56,4 +56,4 @@ Let’s suppose you want to install the "class" package. Following command needs
    >library("class") # load the installed package so that you may use its functions
 3. This will install the package "class"
  
-This completes our installation part. If you want to learn how to exceute some basic commands in R Studio, please follow the content given in [Hello World in R] (https://github.com/nitika1111/R-RStudio-BeginnersCompleteGuide/blob/master/R-RStudio-HelloWorld)
+This completes our installation part. If you want to learn how to exceute some basic commands in R Studio, please follow the content given in ([Hello World in R] (https://github.com/nitika1111/R-RStudio-BeginnersCompleteGuide/blob/master/R-RStudio-HelloWorld))
