@@ -35,7 +35,7 @@ _For Linux_
 
 ### 2. Installing R Studio
 Follow these steps to install R Studio:
-1. Go to [RStudio Download] (https://www.rstudio.com/products/rstudio/download/)
+1. Go to ([RStudio Download](https://www.rstudio.com/products/rstudio/download/))
 2. Click the Download RStudio Desktop button
 3. Select the installation file for your system
 4. Run the installation file and follow installation instructions
@@ -56,4 +56,4 @@ Let’s suppose you want to install the "class" package. Following command needs
    >library("class") # load the installed package so that you may use its functions
 3. This will install the package "class"
  
-This completes our installation part. If you want to learn how to exceute some basic commands in R Studio, please follow the content given in ([Hello World in R] (https://github.com/nitika1111/R-RStudio-BeginnersCompleteGuide/blob/master/R-RStudio-HelloWorld))
+This completes our installation part. If you want to learn how to exceute some basic commands in R Studio, please follow the content given in ([Hello World in R](https://github.com/nitika1111/R-RStudio-BeginnersCompleteGuide/blob/master/R-RStudio-HelloWorld))
