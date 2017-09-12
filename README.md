@@ -19,23 +19,23 @@ In order to work with R Studio, following steps should be completed in order:
 Follow the steps below with respect to the operating system you are using
 
 _For Windows_
-1. Download the binary setup file for R from the following link.( [R for Windows](https://cran.r-project.org/bin/windows/base/) )
+1. Download the binary setup file for R from the following link: [R for Windows](https://cran.r-project.org/bin/windows/base/) 
 2. Open the downloaded .exe file
 3. Follow the instructions and install R
 
 
 _For Mac_
-1. Download the appropriate version of .pkg file form the following link. ( [R for Mac](https://cran.r-project.org/bin/macosx/) )
+1. Download the appropriate version of .pkg file form the following link: [R for Mac](https://cran.r-project.org/bin/macosx/) 
 2. Open the downloaded .pkg file
 3. Follow the instructions and install R
 
 _For Linux_
-1. For complete R System installation in Linux, follow the instructions on the following link ([R for Linux](https://cran.r-project.org/) )
+1. For complete R System installation in Linux, follow the instructions on the following link: [R for Linux](https://cran.r-project.org/) 
 2. For Ubuntu with Apt-get installed, execute sudo apt-get install r-base in terminal.
 
 ### 2. Installing R Studio
 Follow these steps to install R Studio:
-1. Go to ([RStudio Download](https://www.rstudio.com/products/rstudio/download/))
+1. Go to this link: [RStudio Download](https://www.rstudio.com/products/rstudio/download/)
 2. Click the Download RStudio Desktop button
 3. Select the installation file for your system
 4. Run the installation file and follow installation instructions
@@ -56,4 +56,4 @@ Let’s suppose you want to install the "class" package. Following command needs
    >library("class") # load the installed package so that you may use its functions
 3. This will install the package "class"
  
-This completes our installation part. If you want to learn how to exceute some basic commands in R Studio, please follow the content given in ([Hello World in R](https://github.com/nitika1111/R-RStudio-BeginnersCompleteGuide/blob/master/R-RStudio-HelloWorld))
+This completes our installation part. If you want to learn how to exceute some basic commands in R Studio, please follow the content given in [Hello World in R](https://github.com/nitika1111/R-RStudio-BeginnersCompleteGuide/blob/master/R-RStudio-HelloWorld)
