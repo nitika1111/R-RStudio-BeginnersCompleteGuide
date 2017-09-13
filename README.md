@@ -58,3 +58,16 @@ Let’s suppose you want to install the "jpeg" package. Following commands need 
 3. This will install the package "jpeg"
  
 This completes our installation part. If you want to learn how to perform a basic data analysis in R Studio, please follow the content given in [Basic Data Analysis in R](http://rpubs.com/Nitika/BasicDataAnalysisCommands)
+
+You may also wish to try out Data Classification, Clustering or Linear Regression from following links:
+  1. k-NN Classification for beginners
+      [Using Iris Dataset](http://rpubs.com/Nitika/kNN_Iris)
+      [Using Airquality Dataset](http://rpubs.com/Nitika/knn_Airquality)
+  2. k-means Clustering for beginners
+      [Using Iris Dataset](http://rpubs.com/Nitika/kmeans_Iris)
+      [Using Airquality Dataset](http://rpubs.com/Nitika/kmeans_Airquality)
+  3. Linear Regression for beginners
+      [Using Iris Dataset](http://rpubs.com/Nitika/linearRegression_Iris)
+      [Using Airquality Dataset](http://rpubs.com/Nitika/linearRegression_Airquality)
+    
+Good luck! :)
