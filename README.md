@@ -53,6 +53,7 @@ Let’s suppose you want to install the "class" package. Following command needs
 1. Run R Studio
 2. On the console, run following commands
    >install.packages("class") # Download and Install package from CRAN directly
+   
    >library("class") # load the installed package so that you may use its functions
 3. This will install the package "class"
  
