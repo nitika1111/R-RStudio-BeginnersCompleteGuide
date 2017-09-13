@@ -46,15 +46,15 @@ R packages can be installed using 2 ways. First one uses GUI on R Studio, and th
 Follow the steps below if your work in R Studio requires installing specific packages that are not already available in R Base Package.
 1. Run R studio
 2. Click on the Packages tab in the bottom-right section and then click on install. 
-3. A dialog box will appear. In the Install Packages dialog, write the package name you want to install under the Packages field and then click install. This will install the package you searched for or give you a list of matching package based on your package text.
+3. A dialog box will appear. In the Install Packages dialog, write the package name you want to install under the Packages field, tick the checkbox "Install Dependencies" and then click install. This will install the package you searched for.
 
 #### Method 2(Using Console)
-Let’s suppose you want to install the "class" package. Following command needs to be executed at R shell(make sure you have Root access on Linux)
+Let’s suppose you want to install the "jpeg" package. Following commands need to be executed at R shell(make sure you have Root access on Linux)
 1. Run R Studio
 2. On the console, run following commands
-   >install.packages("class") # Download and Install package from CRAN directly
+   >install.packages("jpeg") # Download and Install package from CRAN directly
    
-   >library("class") # load the installed package so that you may use its functions
-3. This will install the package "class"
+   >library("jpeg") # load the installed package so that you may use its functions
+3. This will install the package "jpeg"
  
 This completes our installation part. If you want to learn how to perform a basic data analysis in R Studio, please follow the content given in [Basic Data Analysis in R](http://rpubs.com/Nitika/BasicDataAnalysisCommands)
